@@ -25,7 +25,7 @@ This Python program calculates the factorial of a given number using a loop. The
    Make sure you have Python installed on your machine. You can run the program using the following command:
 
    ```bash
-   python Factorial Calculator.py
+    Factorial Calculator.py
    ```
 
 3. **Input a Number:**
