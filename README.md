@@ -77,5 +77,3 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 For any questions or feedback, please contact [mm.talal-95@yahoo.com](mm.talal-95@yahoo.com).
 
 ---
-
-Feel free to modify this README file to better suit your needs and the specifics of your project.
